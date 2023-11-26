@@ -19,11 +19,9 @@ class HomeRemoteSourceImpl extends HomeRemoteDataSource {
         endPoint: 'volumes?Filtering=free-ebooks&q=programming');
 
     List<BookEntity> books = getBooksList(data);
-    saveBooksDataLocal(books,kFetcherdBox);
+    saveBooksDataLocal(books, kFetcherdBox);
     return books;
   }
-
-
 
   @override
   Future<List<BookEntity>> fetchNewstBooks() async {
@@ -31,6 +29,8 @@ class HomeRemoteSourceImpl extends HomeRemoteDataSource {
         endPoint: 'volumes?Filtering=free-ebooks&Sorting=newest&q=programming');
 
     List<BookEntity> books = getBooksList(data);
+    saveBooksDataLocal(books, kNewstBox);
+
     return books;
   }
 
