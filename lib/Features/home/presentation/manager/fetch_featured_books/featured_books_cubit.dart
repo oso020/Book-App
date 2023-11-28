@@ -1,7 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:bookly/Features/home/domin/entites/book_entite.dart';
 import 'package:bookly/Features/home/domin/use_cases/fetched_Featuredbooks_uses_cases.dart';
-import 'package:bookly/core/errors/faluier.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:meta/meta.dart';
 
