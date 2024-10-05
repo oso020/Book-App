@@ -24,13 +24,13 @@
 
 <p align="center">
    
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/splash.png" alt="Sign Up" width="220" style="margin: 10px;"/>
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/register.png" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/Book-App/blob/main/screenshots/splash.png" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/Book-App/blob/main/screenshots/home.png" alt="Sign Up" width="220" style="margin: 10px;"/>
 </p>
 <p align="center">
    
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/splash.png" alt="Sign Up" width="220" style="margin: 10px;"/>
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/register.png" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/Book-App/blob/main/screenshots/book%20details.png" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/Book-App/blob/main/screenshots/search.png" alt="Sign Up" width="220" style="margin: 10px;"/>
 </p>
 
 
